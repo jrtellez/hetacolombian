@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/lampara-calma-calienta-velas/p", "destination": "/index.html" },
+    { "source": "/lampara-calma-calienta-velas", "destination": "/index.html" }
+  ]
+}
